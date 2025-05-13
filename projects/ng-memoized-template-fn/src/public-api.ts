@@ -4,4 +4,4 @@
 
 export * from './lib/utility-functions/memoized'
 export * from './lib/utility-functions/computedFn'
-export * from './lib/utility-functions/pipeFn'
+export * from './lib/utility-functions/createPipe'
